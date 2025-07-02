@@ -5,18 +5,18 @@ SportsHub is a multi-page, server-side rendered Next.js web app featuring infomr
 ## Current Features
 
 McLaren F1 Dashboard
-Team info, current standings, and recent race results for the 2025 season
-All session data (FP1, FP2, FP3, Qualifying, Race) for the most recent race
-Data is scraped from Wikipedia; manual override available via admin
+- Team info, current standings, and recent race results for the 2025 season
+- All session data (FP1, FP2, FP3, Qualifying, Race) for the most recent race
+- Data is scraped from Wikipedia; manual override available via admin
 
 Real Madrid Dashboard
-Team summary, full squad roster (filterable), standings, recent results, and upcoming games
-Data is scraped from Transfermarkt, BBC Sport, ESPN, and Wikipedia
+- Team summary, full squad roster (filterable), standings, recent results, and upcoming games
+- Data is scraped from Transfermarkt, BBC Sport, ESPN, and Wikipedia
 
 Admin Interface
-Preview and update all F1 and football data from the web
-Manually override and save data for F1
-Data priority: manual > web scraping > fallback
+- Preview and update all F1 and football data from the web
+- Manually override and save data for F1
+- Data priority: manual > web scraping > fallback
 
 ## Getting Started
 
@@ -26,9 +26,9 @@ Data priority: manual > web scraping > fallback
 
 ## Project Structure
 
-app/mclaren/page.tsx — McLaren F1 dashboard
-app/real-madrid/page.tsx — Real Madrid dashboard
-app/admin/page.tsx — Admin interface
-app/api/football/* — Real Madrid data endpoints (live-scraped)
-lib/scraper.ts — F1 data scraping logic
-lib/football-scraper.ts — Football data scraping logic
+- app/mclaren/page.tsx — McLaren F1 dashboard
+- app/real-madrid/page.tsx — Real Madrid dashboard
+- app/admin/page.tsx — Admin interface
+- app/api/football/* — Real Madrid data endpoints (live-scraped)
+- lib/scraper.ts — F1 data scraping logic
+- lib/football-scraper.ts — Football data scraping logic
