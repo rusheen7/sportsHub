@@ -1,0 +1,170 @@
+[
+  {
+    "position": 1,
+    "driver_name": "Oscar Piastri",
+    "team": "McLaren",
+    "points": 216,
+    "driver_number": 81,
+    "country_code": "AUS"
+  },
+  {
+    "position": 2,
+    "driver_name": "Lando Norris",
+    "team": "McLaren",
+    "points": 201,
+    "driver_number": 4,
+    "country_code": "GBR"
+  },
+  {
+    "position": 3,
+    "driver_name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "points": 155,
+    "driver_number": 1,
+    "country_code": "NED"
+  },
+  {
+    "position": 4,
+    "driver_name": "George Russell",
+    "team": "Mercedes",
+    "points": 146,
+    "driver_number": 63,
+    "country_code": "GBR"
+  },
+  {
+    "position": 5,
+    "driver_name": "Charles Leclerc",
+    "team": "Ferrari",
+    "points": 119,
+    "driver_number": 16,
+    "country_code": "MON"
+  },
+  {
+    "position": 6,
+    "driver_name": "Lewis Hamilton",
+    "team": "Ferrari",
+    "points": 91,
+    "driver_number": 44,
+    "country_code": "GBR"
+  },
+  {
+    "position": 7,
+    "driver_name": "Kimi Antonelli",
+    "team": "Mercedes",
+    "points": 63,
+    "driver_number": 47,
+    "country_code": "ITA"
+  },
+  {
+    "position": 8,
+    "driver_name": "Alexander Albon",
+    "team": "Williams",
+    "points": 42,
+    "driver_number": 23,
+    "country_code": "THA"
+  },
+  {
+    "position": 9,
+    "driver_name": "Esteban Ocon",
+    "team": "Haas",
+    "points": 23,
+    "driver_number": 31,
+    "country_code": "FRA"
+  },
+  {
+    "position": 10,
+    "driver_name": "Nico Hulkenberg",
+    "team": "Kick Sauber",
+    "points": 22,
+    "driver_number": 27,
+    "country_code": "GER"
+  },
+  {
+    "position": 11,
+    "driver_name": "Isack Hadjar",
+    "team": "Racing Bulls",
+    "points": 21,
+    "driver_number": 37,
+    "country_code": "FRA"
+  },
+  {
+    "position": 12,
+    "driver_name": "Lance Stroll",
+    "team": "Aston Martin",
+    "points": 14,
+    "driver_number": 18,
+    "country_code": "CAN"
+  },
+  {
+    "position": 13,
+    "driver_name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "points": 14,
+    "driver_number": 14,
+    "country_code": "ESP"
+  },
+  {
+    "position": 14,
+    "driver_name": "Carlos Sainz",
+    "team": "Williams",
+    "points": 13,
+    "driver_number": 55,
+    "country_code": "ESP"
+  },
+  {
+    "position": 15,
+    "driver_name": "Liam Lawson",
+    "team": "Racing Bulls",
+    "points": 12,
+    "driver_number": 40,
+    "country_code": "NZL"
+  },
+  {
+    "position": 16,
+    "driver_name": "Pierre Gasly",
+    "team": "Alpine",
+    "points": 11,
+    "driver_number": 10,
+    "country_code": "FRA"
+  },
+  {
+    "position": 17,
+    "driver_name": "Yuki Tsunoda",
+    "team": "Red Bull Racing",
+    "points": 10,
+    "driver_number": 22,
+    "country_code": "JPN"
+  },
+  {
+    "position": 18,
+    "driver_name": "Oliver Bearman",
+    "team": "Haas",
+    "points": 6,
+    "driver_number": 38,
+    "country_code": "GBR"
+  },
+  {
+    "position": 19,
+    "driver_name": "Gabriel Bortoleto",
+    "team": "Kick Sauber",
+    "points": 4,
+    "driver_number": 20,
+    "country_code": "BRA"
+  },
+  {
+    "position": 20,
+    "driver_name": "Franco Colapinto",
+    "team": "Alpine",
+    "points": 0,
+    "driver_number": 12,
+    "country_code": "ARG"
+  },
+  {
+    "position": 21,
+    "driver_name": "Jack Doohan",
+    "team": "Alpine",
+    "points": 0,
+    "driver_number": 61,
+    "country_code": "AUS"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "race_name": "Austrian Grand Prix",
+  "circuit_name": "Red Bull Ring",
+  "date": "2025-06-29",
+  "weekend_type": "normal",
+  "mclaren_results": {
+    "lando_norris": {
+      "fp1": {
+        "position": "DNS",
+        "lap_time": ""
+      },
+      "fp2": {
+        "position": 2,
+        "lap_time": "1:05.234"
+      },
+      "fp3": {
+        "position": 1,
+        "lap_time": "1:04.987"
+      },
+      "sprint_qualifying": {
+        "position": "N/A",
+        "lap_time": "N/A"
+      },
+      "sprint": {
+        "position": "N/A",
+        "lap_time": "N/A"
+      },
+      "qualifying": {
+        "position": 1,
+        "lap_time": "1:04.123"
+      },
+      "race": {
+        "position": 1,
+        "lap_time": "1:23:47.693"
+      }
+    },
+    "oscar_piastri": {
+      "fp1": {
+        "position": 3,
+        "lap_time": "1:06.123"
+      },
+      "fp2": {
+        "position": 4,
+        "lap_time": "1:05.567"
+      },
+      "fp3": {
+        "position": 3,
+        "lap_time": "1:05.234"
+      },
+      "sprint_qualifying": {
+        "position": "N/A",
+        "lap_time": "N/A"
+      },
+      "sprint": {
+        "position": "N/A",
+        "lap_time": "N/A"
+      },
+      "qualifying": {
+        "position": 3,
+        "lap_time": "1:04.456"
+      },
+      "race": {
+        "position": 2,
+        "lap_time": "+2.695s"
+      }
+    }
+  }
+}
